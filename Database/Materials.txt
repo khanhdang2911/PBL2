@@ -1,0 +1,46 @@
+45
+12,Bot Onemix,g,1700
+13,Bot cacao,g,100
+15,Bot matcha,g,2000
+45,Bot mi tuoi,g,1000
+14,Bot socola,g,3300
+16,Bot socola trang,g,1000
+7,Ca phe bot,g,1000
+34,Cam,g,680
+38,Cam thao,g,1000
+32,Carot,g,1000
+23,Chanh tuoi,g,800
+9,Da vien,g,1840
+33,Dau tay,g,2000
+31,Dua,g,400
+8,Duong trang,g,1000
+17,Hat ca phe,g,1650
+39,Hoa hong say,g,1000
+19,Kem Base,g,9600
+18,Kem Richard,g,500
+20,Kem Vani,g,4300
+41,Mut dao,g,980
+40,Mut vai,g,570
+42,Mut xoai,g,1350
+24,Nuoc ep chanh,ml,1000
+25,Nuoc ep dua,ml,1000
+37,Que,g,900
+36,Siro chanh day,g,1000
+28,Siro dao,ml,1000
+26,Siro dau,ml,5450
+29,Siro quat,ml,1000
+27,Siro tao,ml,1000
+22,Sot caramel,g,9400
+21,Sot dark chocolate,g,1000
+44,Sua chua co duong,g,1000
+10,Sua dac,g,8100
+11,Sua tuoi khong duong,ml,970
+35,Tao,g,400
+4,Tra hoa,g,3080
+5,Tra maccha,g,900
+3,Tra rong,g,2500
+6,Tra socola,g,3000
+2,Tra xanh,g,3000
+1,Tran chau den,g,3656
+30,Xoai,g,5000
+48,Khoai tay,g,2000

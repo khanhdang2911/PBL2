@@ -1,0 +1,13 @@
+12
+Administrator,12,David Json,davidjson@gmail.com,Admin@123,090000906
+Administrator,10,Huynh Quoc F,huynhquocf@gmail.com,12345@Abc,090000905
+Staff,4,Khanh Le,ledinhkhanh2100@gmail.com,Kaka@123,090000900
+Administrator,5,Le Dinh Khanh,ledinhkhanh1234@gmail.com,12345@Abc,0903526144
+Staff,9,Luong Van E,luongvane@gmail.com,Kaka@123,090000904
+Staff,3,Nguyen A,nguyenvana@gmail.com,Nguyena@123,090000905
+Administrator,6,Nguyen Van B,nguyenvana@gmail.com,12345@Abc,090000901
+Administrator,7,Nguyen Van C ,nguyenvanc@gmail.com,Admin@123,090000902
+Staff,11,Quoc Bao,quocbao@gmail.com,Staff@123,090000907
+Administrator,1,admin,admin@gmail.com,Admin@123,0900900900
+Staff,2,staff,staff@gmail.com,Staff@123,0911565321
+Administrator,13,John Nation,johnnation@gmail.com,John@123,090000906

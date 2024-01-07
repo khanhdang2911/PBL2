@@ -1,0 +1,19 @@
+18
+3;Bac xiu;Cho 300ml vao binh, dun nuoc 15p, do vao ly, lac 10p;15000
+5;Ca phe cappuccino;Cho 300ml vao binh, dun nuoc 15p, them sua say va bot ca cao, do vao ly, lac 10p;25000
+6;Ca phe dau kho;Cho 300ml vao binh, dun nuoc 15p, them sua tuoi va duong, do vao ly, lac 10p;200000
+7;Ca phe den;Cho 300ml vao binh, dun nuoc 15p, do vao ly, lac 10p;15000
+11;Ca phe den;Cho 10g ca phe rang xay vao binh, dun nuoc 4p, do vao ly, lac 10p;15000
+14;Ca phe latte;Cho 30ml ca phe espresso vao ly, them 150ml sua non, do vao ly, lac 5p;25000
+13;Ca phe macchiato;Cho 30ml ca phe espresso vao ly, them 100ml sua non, do vao ly, lac 5p;25000
+8;Ca phe mocha;Cho 300ml vao binh, dun nuoc 15p, them sua say va bot cacao, do vao ly, lac 10p;26000
+1;Ca phe phin;Trang phin va ly cafe qua nuoc soi, Cho 100g cafe vao, lac deu de lam phang mat ca phe, dung gat ep cafe voi mot luc vua phai.Cho khoang 160ml nuoc soi vao trong phin va cho doi tu 7-10 phut. Sau do tiep tuc cho 250ml nuoc soi vao.;25000
+2;Ca phe sua;Cho 300ml vao binh, dun nuoc 15p, them sua tuoi va duong, do vao ly, lac 10p;200000
+10;Ca phe sua non;Cho 50ml sua non vao binh, dun nuoc 10p, them ca phe rang xay, do vao ly, lac 5p;20000
+12;Ca phe tra xanh;Cho 10g tra xanh rang xay vao binh, dun nuoc 4p, do vao ly, lac 10p;20000
+17;Matcha tran chau;Xay matcha trong 10p, cho khoang 50g tran chau, 100ml sua chua khong duong. Lac deu;10000
+9;Nuoc loc;Uong truc tiep. Phuc vu them da cho khach.;10000
+15;Sua chua khong duong;Dung truc tiep. Co the them ly va da cung la bac ha cho khach.;10000
+4;Tra sua tran chau;Cho 300ml vao binh, dun nuoc 15p, them sua say va bot cacao, do vao ly, lac 10p;26000
+16;Tran chau duong den;Cho khoang 200g tran chau den ra coc phe che chuyen dung 500ml, cho nuoc siro, duong, khuya deu. Giu nguyen trong 5p. Dung li x12 de dung.;15000
+18;Ca phe capuchino;Cho khoang 100 - 150g ca phe nguyen chat vao may RTX-1500, bo che do xay nhuyen trong 5p, chuan bi nuoc am 200ml, 100g duong vien. Su dung may danh, tron hon hop den khi hoa tan het.;25000
